@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAndRoleManager", "UserAndRoleManager\UserAndRoleManager.csproj", "{5D6C4D21-D09C-4E36-BCB4-0C25364CB6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D6C4D21-D09C-4E36-BCB4-0C25364CB6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6C4D21-D09C-4E36-BCB4-0C25364CB6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6C4D21-D09C-4E36-BCB4-0C25364CB6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6C4D21-D09C-4E36-BCB4-0C25364CB6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D298362C-0D0C-4577-BA6B-6E9BBECEC318}
+	EndGlobalSection
+EndGlobal
